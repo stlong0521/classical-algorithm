@@ -18,7 +18,7 @@ This repository contains demo implementations of several classical algorithms in
 
 ## Hash Table
 * Folder: hashtable
-* Description: Demo implementation of a hash table
+* Description: Demo implementation of a hash table using arrays
 * Major Operations: add a new item, get an existing item, remove an existing item
 * Test Codes: Main.java
 
