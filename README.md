@@ -8,6 +8,7 @@ This repository contains demo implementations of several classical algorithms in
 * Sorting
 * Hash Table
 * Tree & Graph
+* Binary Search Tree (Regular)
 * Trie
 * 0-1 Knapsack
 
@@ -26,6 +27,12 @@ This repository contains demo implementations of several classical algorithms in
 * Folder: tree-graph
 * Description: Demo implementation of trees (binary and N-ary) and graphs using adjacency list
 * Major Operations: Binary Tree (preorder/inorder/postorder tree walk), N-ary Tree (postorder/DFS/BFS tree walk), Graph (DFS/BFS traversal, graph reversal)
+* Test Codes: Main.java
+
+## Binary Search Tree (Regular)
+* Folder: bst
+* Description: Demo implementation of regular binary search tree
+* Major Operations: existence check, add a new item, remove an existing item, successor, predecessor, inorder tree walk
 * Test Codes: Main.java
 
 ## Trie
